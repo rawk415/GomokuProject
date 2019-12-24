@@ -2,7 +2,7 @@
 Gomoku refer to ndb796 &amp; Live Chatting Project
 
 ### Demo Video
-클릭 시 Youtube로 
+클릭 시 Youtube로 이동
 [![screenshot](./Gomoku.png)](https://youtu.be/to2GPOZB-ac)
 
 ### Gomoku 출처
